@@ -1,0 +1,10 @@
+com/mani/config/WebAppInitializer.class
+com/mani/util/Mappings.class
+com/mani/model/ToDoItem.class
+com/mani/config/ToDoController.class
+com/mani/config/ToDoItemServiceImpl.class
+com/mani/util/AttributesName.class
+com/mani/config/Webconfig.class
+com/mani/config/ToDoItemService.class
+com/mani/util/ViewNames.class
+com/mani/model/ToDoData.class

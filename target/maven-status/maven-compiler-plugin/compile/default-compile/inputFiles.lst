@@ -1,0 +1,10 @@
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/util/AttributesName.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/util/Mappings.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/config/Webconfig.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/config/WebAppInitializer.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/config/ToDoItemService.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/config/ToDoItemServiceImpl.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/util/ViewNames.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/config/ToDoController.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/model/ToDoData.java
+/home/mani/IdeaProjects/SpringMVC/src/main/java/com/mani/model/ToDoItem.java
