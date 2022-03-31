@@ -15,7 +15,7 @@
         <logback.version>1.2.3</logback.version>
         <java.version>11</java.version>
         <servlet.version>4.0.1</servlet.version>
-        <spring-mvc.version>5.0.5.RELEASE</spring-mvc.version>
+        <spring-mvc.version>5.3.18</spring-mvc.version>
         <jstl.version>1.2</jstl.version>
     </properties>
 
